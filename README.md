@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with discord.py documentation
 - 💬 Ask me about tech related stuff
-- 📫 How to reach me: shahadilmunawir110@gmail.com
+- 📫 How to reach me: kevinvarghesee12@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of my time in front of computers
 
